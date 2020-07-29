@@ -10,3 +10,6 @@ Authors: <br>
 Lab 1: (Regularized/bayesian) linear/polynomial regression; model selection. <br>
 Lab 2: Logistic regression; gradient-based optimization. <br>
 Lab 3: Gaussian Processes; Support Vector Machines.
+
+## Getting started
+Make sure to activate the conda environment (or first create one with environment.yml).
